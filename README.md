@@ -1,2 +1,5 @@
-# 4-lanes-python-simulation-for-traffic-management
-This project simulates a four-lane smart traffic management system that dynamically assigns green signals based on real-time vehicle counts. Each lane’s traffic load is analyzed, and the lane with the highest congestion receives priority. The system optimizes flow, reduces waiting time, and demonstrates adaptive signal control without IoT hardware.
+# Smart Traffic Management
+## This repo contains simulation code of  Smart traffic management system
+Youtube video :- https://youtu.be/UGl296sXwdk
+
+<img src="https://github.com/AdityaWadkar/Smart-Traffic-Management/assets/67093170/a357c87c-5b1f-45d2-b0e6-4d732fd6ca07">
